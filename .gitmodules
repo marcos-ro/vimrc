@@ -1,0 +1,18 @@
+[submodule "pack/theme/start/nord"]
+	path = pack/theme/start/nord
+	url = https://github.com/arcticicestudio/nord-vim
+[submodule "pack/theme/start/airline"]
+	path = pack/theme/start/airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/util/start/auto-pairs"]
+	path = pack/util/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "pack/util/start/editorconfig"]
+	path = pack/util/start/editorconfig
+	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "pack/util/start/tabnine"]
+	path = pack/util/start/tabnine
+	url = https://github.com/zxqfl/tabnine-vim
+[submodule "pack/util/start/nerdtree"]
+	path = pack/util/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
