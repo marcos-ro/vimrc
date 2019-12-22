@@ -4,7 +4,8 @@ My personalized vimrc
 
 ## How to install?
 
-    git clone -r https://github.com/marcos-ro/vimrc ~/.vim
+    $ git clone -r https://github.com/marcos-ro/vimrc ~/.vim
+
 
 ## Preview
 
