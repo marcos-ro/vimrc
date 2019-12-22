@@ -2,7 +2,7 @@
 
 My personalized vimrc
 
-## How install?
+## How to install?
 
     git clone -r https://github.com/marcos-ro/vimrc ~/.vim
 
