@@ -16,3 +16,6 @@
 [submodule "pack/util/start/nerdtree"]
 	path = pack/util/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree
+[submodule "/Users/marcos/.vim/pack/util/start/ale"]
+	path = /Users/marcos/.vim/pack/util/start/ale
+	url = https://github.com/dense-analysis/ale.git
