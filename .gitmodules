@@ -19,3 +19,6 @@
 [submodule "/Users/marcos/.vim/pack/util/start/ale"]
 	path = /Users/marcos/.vim/pack/util/start/ale
 	url = https://github.com/dense-analysis/ale.git
+[submodule "pack/util/start/closetag"]
+	path = pack/util/start/closetag
+	url = https://github.com/alvan/vim-closetag
