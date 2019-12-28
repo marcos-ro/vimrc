@@ -20,7 +20,6 @@ set backupdir=~/.vim_backup/ " only work on unix systems
 " indent settings
 set autoindent
 set smartindent
-set expandtab
 set tabstop=4
 set shiftwidth=4
 
