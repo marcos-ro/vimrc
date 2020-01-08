@@ -22,3 +22,6 @@
 [submodule "pack/util/start/closetag"]
 	path = pack/util/start/closetag
 	url = https://github.com/alvan/vim-closetag
+[submodule "pack/util/start/emmet"]
+	path = pack/util/start/emmet
+	url = https://github.com/mattn/emmet-vim
