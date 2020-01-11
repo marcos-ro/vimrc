@@ -25,3 +25,6 @@
 [submodule "pack/theme/start/solarized"]
 	path = pack/theme/start/solarized
 	url = https://github.com/altercation/vim-colors-solarized
+[submodule "pack/theme/start/airline-themes"]
+	path = pack/theme/start/airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
