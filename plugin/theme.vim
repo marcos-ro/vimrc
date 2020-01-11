@@ -10,12 +10,13 @@ let g:airline#extensions#tabline#enabled=1
 
 " verify if terminal support 256 colors
 if &t_Co > 2
+	set background=light
 	set cursorline
 	set cursorcolumn
 	set colorcolumn=80
 
 	syntax on
-	colorscheme nord
+	colorscheme solarized
 else
 	syntax on
 endif
