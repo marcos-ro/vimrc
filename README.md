@@ -1,6 +1,6 @@
-# Vimrc
+# vimrc
 
-My personalized vimrc
+My personalized vimrc, i try keep minimalist my vim
 
 ## How to install?
 

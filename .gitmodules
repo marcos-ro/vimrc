@@ -22,9 +22,9 @@
 [submodule "pack/util/start/emmet"]
 	path = pack/util/start/emmet
 	url = https://github.com/mattn/emmet-vim
-[submodule "pack/theme/start/solarized"]
-	path = pack/theme/start/solarized
-	url = https://github.com/altercation/vim-colors-solarized
 [submodule "pack/theme/start/airline-themes"]
 	path = pack/theme/start/airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "pack/theme/start/monokai"]
+	path = pack/theme/start/monokai
+	url = https://github.com/crusoexia/vim-monokai
