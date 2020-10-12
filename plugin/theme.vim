@@ -12,13 +12,13 @@ let g:airline_powerline_fonts=0
 
 " verify if terminal support 256 colors
 if &t_Co > 2
-	set cursorline
-	set cursorcolumn
+  set cursorline
+  set cursorcolumn
   set termguicolors
-	set colorcolumn=80
+  set colorcolumn=80
 
-	syntax on
-	colorscheme monokai
+  syntax on
+  colorscheme monokai
 else
-	syntax on
+  syntax on
 endif
