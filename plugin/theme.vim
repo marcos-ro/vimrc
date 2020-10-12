@@ -10,7 +10,7 @@ let g:airline_theme='badwolf'
 let g:airline#extensions#tabline#enabled=1
 let g:airline_powerline_fonts=0
 
-" verify if terminal support 256 colors
+" verify if terminal support 256 colors  
 if &t_Co > 2
   set cursorline
   set cursorcolumn
