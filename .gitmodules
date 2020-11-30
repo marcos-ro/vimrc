@@ -28,3 +28,12 @@
 [submodule "pack/theme/start/monokai"]
 	path = pack/theme/start/monokai
 	url = https://github.com/crusoexia/vim-monokai
+[submodule "pack/util/start/web-server"]
+	path = pack/util/start/web-server
+	url = https://github.com/turbio/bracey.vim
+[submodule "pack/util/start/scala-ide"]
+	path = pack/util/start/scala-ide
+	url = https://github.com/derekwyatt/vim-scala
+[submodule "pack/theme/start/devicons"]
+	path = pack/theme/start/devicons
+	url = https://github.com/ryanoasis/vim-devicons
