@@ -37,3 +37,6 @@
 [submodule "pack/theme/start/devicons"]
 	path = pack/theme/start/devicons
 	url = https://github.com/ryanoasis/vim-devicons
+[submodule "pack/util/start/dadbod"]
+	path = pack/util/start/dadbod
+	url = https://github.com/tpope/vim-dadbod
