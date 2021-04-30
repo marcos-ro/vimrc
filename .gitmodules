@@ -55,3 +55,6 @@
 [submodule "pack/theme/start/webdevicoins"]
 	path = pack/theme/start/webdevicoins
 	url = https://github.com/cj/vim-webdevicons
+[submodule "pack/util/start/tag-lists"]
+	path = pack/util/start/tag-lists
+	url = https://github.com/vim-scripts/taglist.vim
