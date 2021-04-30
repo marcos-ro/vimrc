@@ -40,3 +40,18 @@
 [submodule "pack/util/start/dadbod"]
 	path = pack/util/start/dadbod
 	url = https://github.com/tpope/vim-dadbod
+[submodule "pack/theme/start/solarized"]
+	path = pack/theme/start/solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "pack/theme/start/solarized8"]
+	path = pack/theme/start/solarized8
+	url = https://github.com/lifepillar/vim-solarized8
+[submodule "pack/util/cursorword"]
+	path = pack/util/start/cursorword
+	url = https://github.com/itchyny/vim-cursorword
+[submodule "pack/util/start/nerdtree-plugin"]
+	path = pack/util/start/nerdtree-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "pack/theme/start/webdevicoins"]
+	path = pack/theme/start/webdevicoins
+	url = https://github.com/cj/vim-webdevicons

@@ -6,7 +6,7 @@
 "
 
 " show airline tabline
-let g:airline_theme='badwolf'
+let g:airline_theme='solarized'
 let g:airline#extensions#tabline#enabled=1
 let g:airline_powerline_fonts=0
 
@@ -18,7 +18,8 @@ if &t_Co > 2
   set colorcolumn=80
 
   syntax on
-  colorscheme monokai
+  set background=light
+  colorscheme solarized8_flat
 else
   syntax on
 endif
