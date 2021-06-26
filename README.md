@@ -9,4 +9,4 @@ $ git clone --recursive https://github.com/marcos-ro/vimrc ~/.vim
 ```
 ## Preview
 
-![vimrc](screenshots/theme.png)
+![vimrc](screenshots/theme_new_version.png)
