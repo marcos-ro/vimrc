@@ -58,3 +58,15 @@
 [submodule "pack/util/start/tag-lists"]
 	path = pack/util/start/tag-lists
 	url = https://github.com/vim-scripts/taglist.vim
+[submodule "pack/util/start/ale-syntax"]
+	path = pack/util/start/ale-syntax
+	url = https://github.com/dense-analysis/ale.git
+[submodule "pack/theme/start/sql-syntax"]
+	path = pack/theme/start/sql-syntax
+	url = https://github.com/shmup/vim-sql-syntax
+[submodule "pack/theme/start/onedark"]
+	path = pack/theme/start/onedark
+	url = https://github.com/joshdick/onedark.vim
+[submodule "pack/theme/start/distinguished"]
+	path = pack/theme/start/distinguished
+	url = https://github.com/Lokaltog/vim-distinguished

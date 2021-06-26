@@ -12,14 +12,13 @@ let g:airline_powerline_fonts=0
 
 " verify if terminal support 256 colors  
 if &t_Co > 2
+  set t_Co=256
   set cursorline
   set cursorcolumn
-  set termguicolors
   set colorcolumn=80
 
   syntax on
-  set background=light
-  colorscheme solarized8_flat
+  colorscheme distinguished
 else
   syntax on
 endif
