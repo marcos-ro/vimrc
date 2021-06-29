@@ -10,7 +10,7 @@ My minimalist configuration vim, since my tasks are more database administration
 ## How to install?
 
 ```bash
-$ git clone --recursive https://github.com/marcos-ro/vimrc ~/.vim
+git clone --recursive https://github.com/marcos-ro/vimrc ~/.vim
 ```
 
 ## Preview
